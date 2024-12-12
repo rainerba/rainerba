@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rainerba
-- 👀 I’m interested in backend and hardware programming
-- 🌱 I’m currently learning backend engineering at Praxis Academy
-- 💞️ I’m not looking to collaborate right now
+- 👋 Hi, I’m @rainer_ba
+- 👀 I’m interested in data analytics, backend system, and hardware programming
+- 🌱 I’m currently learning Data Analytics at RevoU
 - 📫 You can reach me via email rainerbetha@gmail.com
 
 <!---
